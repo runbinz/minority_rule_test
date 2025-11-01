@@ -17,6 +17,7 @@ This game is based on the El Farol Bar problem in game theory - a coordination p
 ### Akiyama's Strategy
 
 In the manga's final round with 4 players remaining, Aki immediately declares he will vote "Yes" before anyone else votes.
+
 The Logic (First Level):
 Akiyama publicly commits to "Yes"
 The remaining 3 players think: "If I vote No, I'll be in the minority"
