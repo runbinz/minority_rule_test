@@ -1,7 +1,6 @@
 # Liar Game: Minority Rule Simulation
 
 A Python simulation exploring the game theory behind the "Minority Rule" game from the manga Liar Game.<br>
-About the Game<br>
 Minority Rule is a psychological game where players must vote "Yes" or "No" on a question, with the goal of being in the minority. Players in the majority are eliminated, and the game continues until winners emerge.
 
 ### Rules:
